@@ -24,6 +24,8 @@
 
 $string['cachedef_serverversions'] = 'Matrix server version information for running servers';
 $string['matrixuserid'] = 'Matrix user ID';
+$string['matrixhomeservername'] = 'Homeserver Name';
+$string['matrixhomeservername_desc'] = 'The name of your Synapse homeserver if different from the URL. The part that follows the <code>@user:</code> in usernames. e.g. <code>@user:example.com</code>.';
 $string['matrixhomeserverurl'] = 'Homeserver URL';
 $string['matrixhomeserverurl_desc'] = 'The URL of the Synapse homeserver to connect to, for user and room creation.';
 $string['matrixaccesstoken'] = 'Access token';
